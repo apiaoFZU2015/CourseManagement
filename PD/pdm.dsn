@@ -1,0 +1,8 @@
+[ODBC]
+DRIVER=SQL Server
+UID=Administrator
+WSID=PC-201504261345
+APP=PowerDesigner
+Trusted_Connection=Yes
+SERVER=PC-201504261345
+Description=pdm
